@@ -15,10 +15,10 @@ public class desafio6Vetor {
         int qtde = sc.nextInt();
         sc.nextLine();
 
-        String nome[] = new String[qtde];
-        double nota1[] = new double[qtde];
-        double nota2[] = new double[qtde];
-        double media[] = new double[qtde];
+        String[] nome = new String[qtde];
+        double[] nota1 = new double[qtde];
+        double[] nota2 = new double[qtde];
+        double[] media = new double[qtde];
         int i;
 
         //entrada dos dados dos alunos
