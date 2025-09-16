@@ -1,3 +1,5 @@
+package aplicacao;
+
 import java.util.Scanner;
 
 public class Combustivel {
